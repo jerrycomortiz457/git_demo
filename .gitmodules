@@ -1,0 +1,3 @@
+[submodule "new_setup_dojo"]
+	path = new_setup_dojo
+	url = https://github.com/jerrycomortiz457/new_setup_dojo
